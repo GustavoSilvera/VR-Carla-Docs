@@ -1,7 +1,6 @@
 # Getting a VR player to work in `Carla 0.9.11`
 
-## NOTE: these are *unfinished* guides for an upcoming CMU `DReyeVR` project
-(`DReyeVR` will be released soon, but is currently private)
+## NOTE: these are *unfinished* guides for an upcoming project
 
 ### Prerequisites
 - As expected, you'll need to have a fully-functional [`Carla 0.9.11`](https://carla.org/2020/12/22/release-0.9.11/) build working on your machine
